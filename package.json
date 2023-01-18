@@ -18,6 +18,12 @@
   "homepage": "https://github.com/Shreyashyadav0/Unit-testing-and-documentation-#readme",
   "dependencies": {
     "express": "^4.18.2",
+    "mocha": "^10.2.0",
     "nodemon": "^2.0.20"
+  },
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "chai-http": "^4.3.0",
+    "morgan": "^1.10.0"
   }
 }
